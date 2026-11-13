@@ -1,0 +1,7 @@
+k-mer       count  fraction
+---------------------------
+ACGTA          58    20.14%
+CGTAC          58    20.14%
+ATTAC          17     5.90%
+CTGTA          17     5.90%
+GATTA          17     5.90%

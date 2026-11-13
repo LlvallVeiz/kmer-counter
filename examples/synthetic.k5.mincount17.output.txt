@@ -1,0 +1,9 @@
+k-mer       count
+-----------------
+ACGTA          58
+CGTAC          58
+ATTAC          17
+CTGTA          17
+GATTA          17
+TGTAA          17
+(6 distinct k-mers, 184 total)

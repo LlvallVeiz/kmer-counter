@@ -1,0 +1,12 @@
+{
+  "k": 3,
+  "canonical": false,
+  "total": 6,
+  "distinct": 4,
+  "counts": {
+    "ACG": 2,
+    "CGT": 2,
+    "GTA": 1,
+    "TAC": 1
+  }
+}

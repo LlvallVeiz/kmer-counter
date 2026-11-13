@@ -1,0 +1,12 @@
+frequency  distinct_kmers  histogram
+       1         11 ##################################################
+       2          6 ###########################
+       3          1 ####
+       5          3 #############
+       6          1 ####
+       9          1 ####
+      16          3 #############
+      17          4 ##################
+      58          2 #########
+singletons: 11  mode frequency: 1  mean frequency: 9.00
+naive genome-size estimate (total / mode): 288 bp

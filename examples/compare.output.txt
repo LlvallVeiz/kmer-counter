@@ -1,0 +1,11 @@
+sample comparison (distinct k-mers)
+distinct in A:         2
+distinct in B:         3
+shared:                2
+only in A:             0
+only in B:             1
+Jaccard similarity:    0.6667
+containment A in B:    1.0000
+containment B in A:    0.6667
+Bray-Curtis distance:  0.1667
+cosine similarity:     0.9562

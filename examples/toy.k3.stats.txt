@@ -1,0 +1,21 @@
+k-mer summary (k = 3, canonical = false)
+records processed:     1
+total bases:           8
+total k-mers:          6
+distinct k-mers:       4
+singletons (freq 1):   2
+skipped windows (N):   0
+mean frequency:        1.50
+median frequency:      1.50
+mode frequency:        1
+entropy:               1.9183 bits
+GC per distinct k-mer: mean 0.5000  min 0.3333  max 0.6667
+genome-size estimate:    6 bp (total / mode)
+
+most frequent k-mers:
+k-mer       count  fraction
+-------------------------
+ACG           2    33.33%
+CGT           2    33.33%
+GTA           1    16.67%
+TAC           1    16.67%

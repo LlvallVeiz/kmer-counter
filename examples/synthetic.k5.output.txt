@@ -1,0 +1,35 @@
+k-mer       count
+-----------------
+ACGTA          58
+CGTAC          58
+ATTAC          17
+CTGTA          17
+GATTA          17
+TGTAA          17
+AATCT          16
+ACAGA          16
+ATCTG          16
+AGCTA           9
+CTAGC           6
+AACCG           5
+GGTTA           5
+GTTAA           5
+ACCGG           3
+AACGG           2
+ACCGT           2
+CGATC           2
+CGTTA           2
+CTAAC           2
+GCTAA           2
+AAGCT           1
+ACGAT           1
+ATCGC           1
+ATGCG           1
+CCGGA           1
+CGTAG           1
+CTTAA           1
+GCTAC           1
+GCTTA           1
+TACGA           1
+TCGCA           1
+(32 distinct k-mers, 288 total)

@@ -1,0 +1,30 @@
+{
+  "k": 5,
+  "canonical": true,
+  "records": 3,
+  "total_bases": 300,
+  "total_kmers": 288,
+  "distinct_kmers": 32,
+  "singletons": 11,
+  "skipped_windows": 0,
+  "mean_frequency": 9.000000,
+  "median_frequency": 2.000000,
+  "mode_frequency": 1,
+  "entropy_bits": 3.846674,
+  "gc_mean": 0.456250,
+  "gc_min": 0.200000,
+  "gc_max": 0.800000,
+  "genome_size_estimate": 288,
+  "top": [
+    {"kmer": "ACGTA", "count": 58, "fraction": 0.201389},
+    {"kmer": "CGTAC", "count": 58, "fraction": 0.201389},
+    {"kmer": "ATTAC", "count": 17, "fraction": 0.059028},
+    {"kmer": "CTGTA", "count": 17, "fraction": 0.059028},
+    {"kmer": "GATTA", "count": 17, "fraction": 0.059028},
+    {"kmer": "TGTAA", "count": 17, "fraction": 0.059028},
+    {"kmer": "AATCT", "count": 16, "fraction": 0.055556},
+    {"kmer": "ACAGA", "count": 16, "fraction": 0.055556},
+    {"kmer": "ATCTG", "count": 16, "fraction": 0.055556},
+    {"kmer": "AGCTA", "count": 9, "fraction": 0.031250}
+  ]
+}

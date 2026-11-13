@@ -1,0 +1,5 @@
+k-mer       count
+---------------
+ACG           4
+GTA           2
+(2 distinct k-mers, 6 total)

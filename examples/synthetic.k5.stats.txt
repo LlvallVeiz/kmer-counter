@@ -1,0 +1,27 @@
+k-mer summary (k = 5, canonical = true)
+records processed:     3
+total bases:           300
+total k-mers:          288
+distinct k-mers:       32
+singletons (freq 1):   11
+skipped windows (N):   0
+mean frequency:        9.00
+median frequency:      2.00
+mode frequency:        1
+entropy:               3.8467 bits
+GC per distinct k-mer: mean 0.4562  min 0.2000  max 0.8000
+genome-size estimate:    288 bp (total / mode)
+
+most frequent k-mers:
+k-mer       count  fraction
+---------------------------
+ACGTA          58    20.14%
+CGTAC          58    20.14%
+ATTAC          17     5.90%
+CTGTA          17     5.90%
+GATTA          17     5.90%
+TGTAA          17     5.90%
+AATCT          16     5.56%
+ACAGA          16     5.56%
+ATCTG          16     5.56%
+AGCTA           9     3.12%
