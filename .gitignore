@@ -1,0 +1,10 @@
+# Rust build artefacts
+/target/
+# Note: Cargo.lock is intentionally committed (binary crate, reproducible builds).
+
+# Editor / OS artefacts
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/

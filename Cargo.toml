@@ -1,0 +1,21 @@
+[package]
+name = "kmer-counter"
+version = "1.0.0"
+edition = "2021"
+description = "Fast k-mer counting, spectrum analysis and sample comparison for DNA FASTA files"
+license = "MIT"
+authors = ["LlvallVeiz"]
+repository = "https://github.com/LlvallVeiz/kmer-counter"
+keywords = ["bioinformatics", "k-mer", "fasta", "genomics", "cli"]
+categories = ["science", "command-line-utilities"]
+
+[[bin]]
+name = "kmer-counter"
+path = "src/main.rs"
+
+[lib]
+name = "kmer_counter"
+path = "src/lib.rs"
+
+[profile.release]
+opt-level = 3
